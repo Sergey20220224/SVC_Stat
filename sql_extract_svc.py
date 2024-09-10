@@ -1,3 +1,6 @@
+# This is simple batch to exract data from SQL DB and sent dataset in CSV UTF8 via Email to recepients
+# Recepient's list from command line arguments
+
 import sqlalchemy as sa
 import pandas as pd
 import datetime as dt
